@@ -1,0 +1,15 @@
+C:\Development\Training\Back\DesignPattern\DesingPattern.Models\bin\Debug\net5.0\DesingPattern.Models.deps.json
+C:\Development\Training\Back\DesignPattern\DesingPattern.Models\bin\Debug\net5.0\DesingPattern.Models.runtimeconfig.json
+C:\Development\Training\Back\DesignPattern\DesingPattern.Models\bin\Debug\net5.0\DesingPattern.Models.runtimeconfig.dev.json
+C:\Development\Training\Back\DesignPattern\DesingPattern.Models\bin\Debug\net5.0\DesingPattern.Models.dll
+C:\Development\Training\Back\DesignPattern\DesingPattern.Models\bin\Debug\net5.0\ref\DesingPattern.Models.dll
+C:\Development\Training\Back\DesignPattern\DesingPattern.Models\bin\Debug\net5.0\DesingPattern.Models.pdb
+C:\Development\Training\Back\DesignPattern\DesingPattern.Models\obj\Debug\net5.0\DesingPattern.Models.csproj.AssemblyReference.cache
+C:\Development\Training\Back\DesignPattern\DesingPattern.Models\obj\Debug\net5.0\DesingPattern.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Development\Training\Back\DesignPattern\DesingPattern.Models\obj\Debug\net5.0\DesingPattern.Models.AssemblyInfoInputs.cache
+C:\Development\Training\Back\DesignPattern\DesingPattern.Models\obj\Debug\net5.0\DesingPattern.Models.AssemblyInfo.cs
+C:\Development\Training\Back\DesignPattern\DesingPattern.Models\obj\Debug\net5.0\DesingPattern.Models.csproj.CoreCompileInputs.cache
+C:\Development\Training\Back\DesignPattern\DesingPattern.Models\obj\Debug\net5.0\DesingPattern.Models.dll
+C:\Development\Training\Back\DesignPattern\DesingPattern.Models\obj\Debug\net5.0\ref\DesingPattern.Models.dll
+C:\Development\Training\Back\DesignPattern\DesingPattern.Models\obj\Debug\net5.0\DesingPattern.Models.pdb
+C:\Development\Training\Back\DesignPattern\DesingPattern.Models\obj\Debug\net5.0\DesingPattern.Models.genruntimeconfig.cache

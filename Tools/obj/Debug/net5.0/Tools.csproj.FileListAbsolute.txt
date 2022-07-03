@@ -1,0 +1,12 @@
+C:\Development\Training\Back\DesignPattern\Tools\bin\Debug\net5.0\Tools.deps.json
+C:\Development\Training\Back\DesignPattern\Tools\bin\Debug\net5.0\Tools.dll
+C:\Development\Training\Back\DesignPattern\Tools\bin\Debug\net5.0\ref\Tools.dll
+C:\Development\Training\Back\DesignPattern\Tools\bin\Debug\net5.0\Tools.pdb
+C:\Development\Training\Back\DesignPattern\Tools\obj\Debug\net5.0\Tools.csproj.AssemblyReference.cache
+C:\Development\Training\Back\DesignPattern\Tools\obj\Debug\net5.0\Tools.GeneratedMSBuildEditorConfig.editorconfig
+C:\Development\Training\Back\DesignPattern\Tools\obj\Debug\net5.0\Tools.AssemblyInfoInputs.cache
+C:\Development\Training\Back\DesignPattern\Tools\obj\Debug\net5.0\Tools.AssemblyInfo.cs
+C:\Development\Training\Back\DesignPattern\Tools\obj\Debug\net5.0\Tools.csproj.CoreCompileInputs.cache
+C:\Development\Training\Back\DesignPattern\Tools\obj\Debug\net5.0\Tools.dll
+C:\Development\Training\Back\DesignPattern\Tools\obj\Debug\net5.0\ref\Tools.dll
+C:\Development\Training\Back\DesignPattern\Tools\obj\Debug\net5.0\Tools.pdb

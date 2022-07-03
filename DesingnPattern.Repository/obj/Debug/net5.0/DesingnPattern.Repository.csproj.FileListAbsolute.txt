@@ -1,0 +1,15 @@
+C:\Development\Training\Back\DesignPattern\DesingnPattern.Repository\bin\Debug\net5.0\DesingnPattern.Repository.deps.json
+C:\Development\Training\Back\DesignPattern\DesingnPattern.Repository\bin\Debug\net5.0\DesingnPattern.Repository.dll
+C:\Development\Training\Back\DesignPattern\DesingnPattern.Repository\bin\Debug\net5.0\ref\DesingnPattern.Repository.dll
+C:\Development\Training\Back\DesignPattern\DesingnPattern.Repository\bin\Debug\net5.0\DesingnPattern.Repository.pdb
+C:\Development\Training\Back\DesignPattern\DesingnPattern.Repository\obj\Debug\net5.0\DesingnPattern.Repository.csproj.AssemblyReference.cache
+C:\Development\Training\Back\DesignPattern\DesingnPattern.Repository\obj\Debug\net5.0\DesingnPattern.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Development\Training\Back\DesignPattern\DesingnPattern.Repository\obj\Debug\net5.0\DesingnPattern.Repository.AssemblyInfoInputs.cache
+C:\Development\Training\Back\DesignPattern\DesingnPattern.Repository\obj\Debug\net5.0\DesingnPattern.Repository.AssemblyInfo.cs
+C:\Development\Training\Back\DesignPattern\DesingnPattern.Repository\obj\Debug\net5.0\DesingnPattern.Repository.csproj.CoreCompileInputs.cache
+C:\Development\Training\Back\DesignPattern\DesingnPattern.Repository\obj\Debug\net5.0\DesingnPattern.Repository.dll
+C:\Development\Training\Back\DesignPattern\DesingnPattern.Repository\obj\Debug\net5.0\ref\DesingnPattern.Repository.dll
+C:\Development\Training\Back\DesignPattern\DesingnPattern.Repository\obj\Debug\net5.0\DesingnPattern.Repository.pdb
+C:\Development\Training\Back\DesignPattern\DesingnPattern.Repository\bin\Debug\net5.0\DesingPattern.Models.dll
+C:\Development\Training\Back\DesignPattern\DesingnPattern.Repository\bin\Debug\net5.0\DesingPattern.Models.pdb
+C:\Development\Training\Back\DesignPattern\DesingnPattern.Repository\obj\Debug\net5.0\DesingnPattern.Repository.csproj.CopyComplete
